@@ -1,0 +1,11 @@
+{
+  "name": "کارگاه الگوها",
+  "short_name": "کارگاه الگوها",
+  "description": "بازی آموزشی کشف و ساخت الگوها",
+  "lang": "fa",
+  "dir": "rtl",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f8fe",
+  "theme_color": "#d9effc"
+}
